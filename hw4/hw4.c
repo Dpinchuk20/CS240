@@ -4,7 +4,7 @@
  * project: hw4
  * name: Dennis Pinchuk
  * user: Pinchuk1
- * date: 03/26/2020
+ * date: 03/24/2020
  * file: hw4.c
  * notes:
  */
