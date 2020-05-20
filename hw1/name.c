@@ -1,6 +1,6 @@
 /*Acount Name: Pinchuk1
  *Name : Dennis Pinchuk
- *Date : 02/05/2020
+ *Date : 02/11/2020
  *File : name.c
  *Notes : prints out my name Dennis Pinchuk
  */
