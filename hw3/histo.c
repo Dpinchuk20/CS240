@@ -4,7 +4,7 @@
  * project: hw3
  * name: Dennis Pinchuk
  * user: Pinchuk1
- * date: 02/20/2020
+ * date: 03/10/2020
  * file: histo.c
  * notes:
  */
