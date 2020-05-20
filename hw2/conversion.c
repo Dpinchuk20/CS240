@@ -3,7 +3,7 @@
  * project: hw2
  * name: Dennis Pinchuk
  * account: Pinchuk1
- * date: 02/11/2020
+ * date: 02/25/2020
  * file: conversion.c
  * notes:
  */
