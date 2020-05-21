@@ -4,7 +4,7 @@
  * project: hw7
  * name: Dennis Pinchuk
  * user: Pinchuk1
- * date: 05/04/2020
+ * date: 05/03/2020
  * file: hw7.c
  */
 
